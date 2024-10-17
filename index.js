@@ -21,8 +21,8 @@ const string2 = "ABCDEFGHJKLO";
 
 
 // Your code here...
-const concate = string2[2] + string2[14] + string2[14] + string2[11];
-console.log(concate);
+let stringCool = string2[2] + string2[11] + string2[11] + string2[10];
+console.log(stringCool);
 
 
 
